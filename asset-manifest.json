@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Responsive-react/static/css/main.30e18093.chunk.css",
+    "main.js": "/Responsive-react/static/js/main.d6b39480.chunk.js",
+    "main.js.map": "/Responsive-react/static/js/main.d6b39480.chunk.js.map",
+    "runtime-main.js": "/Responsive-react/static/js/runtime-main.28a822e1.js",
+    "runtime-main.js.map": "/Responsive-react/static/js/runtime-main.28a822e1.js.map",
+    "static/js/2.457266f4.chunk.js": "/Responsive-react/static/js/2.457266f4.chunk.js",
+    "static/js/2.457266f4.chunk.js.map": "/Responsive-react/static/js/2.457266f4.chunk.js.map",
+    "static/js/3.c1f9e118.chunk.js": "/Responsive-react/static/js/3.c1f9e118.chunk.js",
+    "static/js/3.c1f9e118.chunk.js.map": "/Responsive-react/static/js/3.c1f9e118.chunk.js.map",
+    "index.html": "/Responsive-react/index.html",
+    "static/css/main.30e18093.chunk.css.map": "/Responsive-react/static/css/main.30e18093.chunk.css.map",
+    "static/js/2.457266f4.chunk.js.LICENSE.txt": "/Responsive-react/static/js/2.457266f4.chunk.js.LICENSE.txt",
+    "static/media/bg-desktop.6824779f.svg": "/Responsive-react/static/media/bg-desktop.6824779f.svg",
+    "static/media/illustration-mockups.264994a5.svg": "/Responsive-react/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/Responsive-react/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28a822e1.js",
+    "static/js/2.457266f4.chunk.js",
+    "static/css/main.30e18093.chunk.css",
+    "static/js/main.d6b39480.chunk.js"
+  ]
+}
