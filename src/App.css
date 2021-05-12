@@ -51,8 +51,22 @@ main button{
   margin-top: 2em;
 }
 main button:hover{
-  
   color:white;
   background-color:rebeccapurple;
   
+}
+
+i.fab{
+ border: 1px solid white;
+ padding: 0.5em;
+ border-style: none;
+ margin-left: 1em;
+ color: white;
+ width:  20px;
+ height: 20px;
+
+}
+footer div{
+  position: absolute;
+  right: 1em;
 }
